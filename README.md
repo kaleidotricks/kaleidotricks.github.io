@@ -1,1 +1,1 @@
-# kaleidotricks.github.io
+# kaleidoTricks
