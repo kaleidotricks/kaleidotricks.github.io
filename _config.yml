@@ -16,6 +16,7 @@ paginate_path: /page:num/
 # Exclude
 exclude:
   - .gitignore
+  - README.md
 
 # Default values
 defaults:
