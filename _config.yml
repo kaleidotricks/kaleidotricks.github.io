@@ -18,7 +18,7 @@ exclude:
   - .gitignore
   - README.md
 
-# Default values
+# Defaults
 defaults:
   -
     scope:
@@ -32,10 +32,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Custom variables
-version: "0.1.0"
-
 # Options
 custom_header: false
 custom_nav_footer: false
 reverse: false
+version: "0.1.1"
